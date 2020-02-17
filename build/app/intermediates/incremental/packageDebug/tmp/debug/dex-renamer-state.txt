@@ -1,0 +1,4 @@
+#Tue Jan 14 12:11:33 BRST 2020
+base.0=/Users/brunoliberali/AndroidStudioProjects/buscar_giffs/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
